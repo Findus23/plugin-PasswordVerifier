@@ -1,0 +1,6 @@
+{
+  "PasswordVerifier": {
+    "PasswordFoundInDb": "Your password occurs %1$s times in the haveibeenpwned.com database. Please choose a secure password",
+    "CantReachAPI": "Can't reach haveibeenpwned.com to verify the password. Please check the Matomo log for more information"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PasswordVerifier",
+  "description": "Reject insecure passwords by searching for their hash in the haveibeenpwned.com database",
+  "version": "0.1.0",
+  "theme": false,
+  "require": {
+    "piwik": ">=3.6.1,<4.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Lukas Winkler",
+      "email": "lukas@matomo.org",
+      "homepage": "https://lw1.at"
+    }
+  ],
+  "support": {
+    "email": "lukas@matomo.org",
+    "issues": "https://github.com/Findus23/plugin-PasswordVerifier/issues",
+    "forum": "https://forum.matomo.org",
+    "source": "https://github.com/Findus23/plugin-PasswordVerifier"
+  },
+  "homepage": "https://lw1.at",
+  "license": "GPL v3+",
+  "keywords": [
+    "security",
+    "passwords",
+    "haveibeenpwned"
+  ]
+}
