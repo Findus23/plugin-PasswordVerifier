@@ -1,7 +1,6 @@
 {
-    "PasswordVerifier": {
-      "PasswordFoundInDb": "Votre mot de passe a été trouvé %1$s fois sur la base de données de haveibeenpwned.com. Merci de choisir un autre mot de passe.",
-      "CantReachAPI": "Impossible de joindre haveibeenpwned.com pour vérifier votre mot de passe. Merci de vérifier les logs de matomo."
-    }
+  "PasswordVerifier": {
+    "PasswordFoundInDb": "Votre mot de passe a été trouvé %1$s fois sur la base de données de haveibeenpwned.com. Merci de choisir un autre mot de passe.",
+    "CantReachAPI": "Impossible de joindre haveibeenpwned.com pour vérifier votre mot de passe. Merci de vérifier les logs de matomo."
   }
-  
+}
