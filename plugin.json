@@ -1,10 +1,10 @@
 {
   "name": "PasswordVerifier",
   "description": "Reject insecure passwords by searching for their hash in the haveibeenpwned.com database",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "theme": false,
   "require": {
-    "piwik": ">=3.6.1,<4.0.0-b1"
+    "matomo": ">=4.0.0-b1,<5.0.0-b1"
   },
   "authors": [
     {
