@@ -1,1 +1,6 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Parolayı doğrulamak için haveibeenpwned.com sitesine erişilemedi. Ayrıntılı bilgi almak için Matomo günlüğüne bakabilirsiniz",
+        "PasswordFoundInDb": "Parolanız haveibeenpwned.com veritabanında %1$s kez geçiyor. Lütfen daha güvenli bir parola seçin"
+    }
+}
