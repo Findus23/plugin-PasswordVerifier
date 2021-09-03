@@ -1,6 +1,6 @@
 {
-  "PasswordVerifier": {
-    "PasswordFoundInDb": "Das gewählte Passwort kommt %1$s Mal in der haveibeenpwned.com Datenbank vor. Bitte wählen Sie ein sicheres Passwort.",
-    "CantReachAPI": "haveibeenpwned.com ist nicht erreichbar. Bitte überprüfen Sie das Matomo Log für mehr Informationen."
-  }
+    "PasswordVerifier": {
+        "CantReachAPI": "Kann haveibeenpwned.com nicht erreichen, um das Passwort zu verifizieren. Bitte überprüfen Sie das Matomo Log für mehr Informationen.",
+        "PasswordFoundInDb": "Ihr Passwort kommt %1$s Mal in der haveibeenpwned.com Datenbank vor. Bitte wählen Sie ein sicheres Passwort."
+    }
 }
