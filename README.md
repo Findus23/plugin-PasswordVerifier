@@ -1,5 +1,8 @@
 # Matomo PasswordVerifier Plugin
 
+[![Translation status](https://hosted.weblate.org/widgets/matomo/-/communityplugin-passwordverifier/svg-badge.svg)](https://hosted.weblate.org/projects/matomo/communityplugin-passwordverifier/)
+
+
 ## Description
 
 This plugin sends the first 5 characters of the SHA1 hash of the password to the [haveibeenpwned.com database](https://haveibeenpwned.com/Passwords) of over 500 million passwords exposed in data breaches. If the password is found, Matomo rejects it and asks the user to use a more secure password.
