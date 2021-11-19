@@ -1,1 +1,6 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "パスワードを確認するためにhaveibeenpwned.comにアクセスできません。詳細はMatomoのログを確認してください",
+        "PasswordFoundInDb": "あなたのパスワードはhaveibeenpwned.comのデータベースに%1$s回出現しています。安全なパスワードを選択してください。"
+    }
+}

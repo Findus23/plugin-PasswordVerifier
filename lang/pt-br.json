@@ -1,1 +1,6 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Não é possível acessar haveibeenpwned.com para verificar a senha. Por favor, verifique o log do Matomo para mais informações",
+        "PasswordFoundInDb": "Sua senha ocorre %1$s vezes no banco de dados haveibeenpwned.com. Escolha uma senha segura"
+    }
+}
