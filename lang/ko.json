@@ -1,1 +1,6 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "비밀번호를 확인하기 위해 haveibeenpwned.com에 연결할 수 없습니다. 자세한 내용은 Matomo 로그를 확인하십시오",
+        "PasswordFoundInDb": "사용자의 비밀번호는 haveibeenpwned.com 데이터베이스에서 %1$s번 발생합니다. 안전한 비밀번호를 선택하십시오"
+    }
+}
