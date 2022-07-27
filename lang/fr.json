@@ -1,6 +1,6 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "Impossible d'atteindre haveibeenpwned.com pour vérifier le mot de passe. Veuillez consulter le journal Matomo pour plus d'informations",
-        "PasswordFoundInDb": "Votre mot de passe apparaît %1$s fois dans la base de données haveibeenpwned.com. Veuillez choisir un mot de passe sécurisé"
+        "CantReachAPI": "Impossible d'atteindre haveibeenpwned.com pour vérifier le mot de passe. Veuillez consulter le journal Matomo pour plus d'informations.",
+        "PasswordFoundInDb": "Votre mot de passe apparaît %1$s fois dans la base de données haveibeenpwned.com. Veuillez choisir un mot de passe sécurisé."
     }
 }

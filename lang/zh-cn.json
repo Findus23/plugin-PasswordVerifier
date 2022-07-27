@@ -1,1 +1,5 @@
-{}
+{
+    "PasswordVerifier": {
+        "PasswordFoundInDb": "您的这个密码已在haveibeenpwned.com数据库中出现过%1$s次，请重新设置一个安全的密码"
+    }
+}
