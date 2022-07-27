@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.2.3
+
+Translation updates
+
 ### 0.2.2
 
 add French, Japanese, Italian, Portuguese, Portuguese (Brazil) and Ukrainian translations
