@@ -1,1 +1,6 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Ei saada yhteyttä haveibeenpwned.com-sivustoon salasanan vahvistamiseksi. Katso lisätietoja Matomon lokista",
+        "PasswordFoundInDb": "Salasanasi esiintyy %1$s kertaa haveibeenpwned.com-tietokannassa. Valitse turvallinen salasana"
+    }
+}
