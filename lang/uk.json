@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "Не вдається зв’язатися з haveibeenpwned.com, щоб перевірити пароль. Будь ласка, перегляньте журнал Matomo для отримання подробиць",
-        "PasswordFoundInDb": "Ваш пароль зустрічається %1$s разів у базі даних haveibeenpwned.com. Будь ласка, виберіть надійний пароль"
+        "CantReachAPI": "Не вдалося зв’язатися з haveibeenpwned.com, щоб перевірити пароль. Будь ласка, перегляньте журнал Matomo для отримання подробиць.",
+        "PasswordFoundInDb": "Ваш пароль зустрічається %1$s разів у базі даних haveibeenpwned.com. Будь ласка, виберіть надійний пароль.",
+        "PluginDescription": "Відхиляйте ненадійні паролі, шукаючи їх хеш у базі даних haveibeenpwned.com"
     }
 }
