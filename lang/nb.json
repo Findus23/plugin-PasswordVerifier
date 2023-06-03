@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
         "CantReachAPI": "Kan ikke åpne haveibeenpwned.com for å bekrefte passordet. Sjekk Matomo-loggføringen for mer info.",
-        "PasswordFoundInDb": "Passordet ditt figurerer %1$s ganger i haveibeenpwned.com-databasen. Velg et sikkert passord."
+        "PasswordFoundInDb": "Passordet ditt figurerer %1$s ganger i haveibeenpwned.com-databasen. Velg et sikkert passord.",
+        "PluginDescription": "Avslå usikre passord ved å søke etter sjekksummen deres i haveibeenpwned.com-databasen"
     }
 }
