@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "Не мога да се свържа с haveibeenpwned.com за проверка на паролата. Моля, проверете логовете на Matomo за повече информация",
-        "PasswordFoundInDb": "Вашата парола се среща %1$s пъти в базата данни haveibeenpwned.com. Моля, изберете сигурна парола"
+        "CantReachAPI": "Не мога да се свържа с haveibeenpwned.com за проверка на паролата. Моля, проверете логовете на Matomo за повече информация.",
+        "PasswordFoundInDb": "Вашата парола се среща %1$s пъти в базата данни haveibeenpwned.com. Моля, изберете сигурна парола.",
+        "PluginDescription": "Отхвърляйте несигурни пароли, като търсите техния хеш в базата данни haveibeenpwned.com"
     }
 }
