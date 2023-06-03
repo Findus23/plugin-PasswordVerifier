@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "No es pot accedir a haveibeenpwned.com per verificar la contrasenya. Consulteu el registre de Matomo per obtenir més informació",
-        "PasswordFoundInDb": "La vostra contrasenya apareix %1$s vegades a la base de dades haveibeenpwned.com. Si us plau, trieu una contrasenya segura"
+        "CantReachAPI": "No es pot accedir a haveibeenpwned.com per verificar la contrasenya. Consulteu el registre de Matomo per obtenir més informació.",
+        "PasswordFoundInDb": "La vostra contrasenya apareix %1$s vegades a la base de dades haveibeenpwned.com. Si us plau, trieu una contrasenya segura.",
+        "PluginDescription": "Rebutja les contrasenyes insegures cercant el seu hash a la base de dades haveibeenpwned.com"
     }
 }
