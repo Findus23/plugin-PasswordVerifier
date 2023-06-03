@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Det går inte att nå haveibeenpwned.com för att verifiera lösenordet. Vänligen kontrollera Matomo-loggen för mer information.",
+        "PasswordFoundInDb": "Ditt lösenord förekommer %1$s gånger i databasen haveibeenpwned.com. Välj ett säkert lösenord.",
+        "PluginDescription": "Avvisa osäkra lösenord genom att söka efter deras hash i databasen haveibeenpwned.com"
+    }
+}
