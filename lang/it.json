@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "Impossibile raggiungere haveibeenpwned.com per verificare la password. Controlla il log di Matomo per informazioni aggiuntive",
-        "PasswordFoundInDb": "La tua password compare %1$s volte nel database di haveibeenpwned.com. Per favore, scegli una password sicura"
+        "CantReachAPI": "Impossibile raggiungere haveibeenpwned.com per verificare la password. Controlla il log di Matomo per informazioni aggiuntive.",
+        "PasswordFoundInDb": "La tua password compare %1$s volte nel database di haveibeenpwned.com. Per favore, scegli una password sicura.",
+        "PluginDescription": "Rifiuta password non sicure ricercandone l'hash nel database di haveibeenpwned.com"
     }
 }
