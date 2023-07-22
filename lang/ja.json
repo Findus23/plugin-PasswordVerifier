@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "パスワードを確認するためにhaveibeenpwned.comにアクセスできません。詳細はMatomoのログを確認してください",
-        "PasswordFoundInDb": "あなたのパスワードはhaveibeenpwned.comのデータベースに%1$s回出現しています。安全なパスワードを選択してください。"
+        "CantReachAPI": "パスワードを確認するために haveibeenpwned.com にアクセスできません。 詳細については Matomo のログを確認してください。",
+        "PasswordFoundInDb": "あなたのパスワードは、haveibeenpwned.com データベースで %1$s 回出現します。 安全なパスワードを選択してください。",
+        "PluginDescription": "haveibeenpwned.com データベースでハッシュを検索して、安全でないパスワードを拒否する"
     }
 }

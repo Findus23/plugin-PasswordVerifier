@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "S’kapet dot haveibeenpwned.com që të verifikohet fjalëkalimi. Për më tepër hollësi, ju lutemi, kontrollon regjistrin e Matomo-s",
-        "PasswordFoundInDb": "Fjalëkalimi juaj shfaqet %1$s herë te baza e të dhënave të haveibeenpwned.com. Ju lutemi, zgjidhni një fjalëkalim të sigurt"
+        "CantReachAPI": "S’kapet dot haveibeenpwned.com që të verifikohet fjalëkalimi. Për më tepër hollësi, ju lutemi, kontrollon regjistrin e Matomo-s.",
+        "PasswordFoundInDb": "Fjalëkalimi juaj shfaqet %1$s herë te baza e të dhënave të haveibeenpwned.com. Ju lutemi, zgjidhni një fjalëkalim të sigurt.",
+        "PluginDescription": "Hidh poshtë fjalëkalime të pasiguruar, duke kërkuar për hashin e tyre te baza e të dhënave haveibeenpwned.com"
     }
 }

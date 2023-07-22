@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
         "CantReachAPI": "Kann \"haveibeenpwned.com\" nicht erreichen, um das Passwort zu verifizieren. Bitte überprüfen Sie das Matomo-Log für mehr Informationen.",
-        "PasswordFoundInDb": "Ihr Passwort kommt %1$s Mal in der \"haveibeenpwned.com\"-Datenbank vor. Bitte wählen Sie ein sicheres Passwort."
+        "PasswordFoundInDb": "Ihr Passwort kommt %1$s Mal in der \"haveibeenpwned.com\"-Datenbank vor. Bitte wählen Sie ein sicheres Passwort.",
+        "PluginDescription": "Lehnen Sie unsichere Passwörter ab, indem Sie in der haveibeenpwned.com Datenbank nach ihrem Hash suchen"
     }
 }

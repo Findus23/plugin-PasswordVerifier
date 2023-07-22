@@ -1,6 +1,7 @@
 {
     "PasswordVerifier": {
-        "CantReachAPI": "Tidak dapat menghubungi haveibeenpwned.com untuk memverifikasi kata sandi. Silakan periksa log Matomo untuk informasi lebih lanjut",
-        "PasswordFoundInDb": "Kata sandi Anda muncul %1$s kali dalam basis data haveibeenpwned.com. Silakan pilih kata sandi yang aman"
+        "CantReachAPI": "Tidak dapat menghubungi haveibeenpwned.com untuk memverifikasi kata sandi. Silakan periksa log Matomo untuk informasi lebih lanjut.",
+        "PasswordFoundInDb": "Kata sandi Anda muncul %1$s kali di basis data haveibeenpwned.com. Silakan gunakan kata sandi yang aman.",
+        "PluginDescription": "Tolak kata sandi yang tidak aman dengan mencari hash-nya di basis data haveibeenpwned.com"
     }
 }

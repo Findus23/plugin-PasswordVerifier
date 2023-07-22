@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Nie można uzyskać dostępu do haveibeenpwned.com w celu weryfikacji hasła. Proszę sprawdzić dziennik Matomo, aby uzyskać więcej informacji.",
+        "PasswordFoundInDb": "Twoje hasło występuje %1$s razy w bazie danych haveibeenpwned.com. Proszę wybrać bezpieczne hasło.",
+        "PluginDescription": "Odrzuć niezabezpieczone hasła, wyszukując ich hash w bazie danych haveibeenpwned.com"
+    }
+}

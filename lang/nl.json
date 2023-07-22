@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Kan haveibeenpwned.com niet bereiken om het wachtwoord te controleren. Bekijk de Matomo log voor meer informatie.",
+        "PasswordFoundInDb": "Uw wachtwoord komt %1$s keer voor in de haveibeenpwned.com databank. Kies een veilig wachtwoord aub.",
+        "PluginDescription": "Weiger onveilige wachtwoorden door het opzoeken van een overeenkomst in de haveibeenpwned.com databank"
+    }
+}

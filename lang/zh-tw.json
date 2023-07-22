@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "無法連結 haveibeenpwned.com 以驗證密碼。請檢查 Matomo 紀錄檔以獲取更多資訊。",
+        "PasswordFoundInDb": "您的密碼在 haveibeenpwned.com 資料庫中出現 %1$s 次。請選擇一個安全的密碼。",
+        "PluginDescription": "通過在 haveibeenpwned.com 資料庫中搜尋雜湊值，以避免使用不安全的密碼"
+    }
+}
