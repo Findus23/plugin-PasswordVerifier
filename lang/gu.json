@@ -1,0 +1,7 @@
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "પાસવર્ડ ચકાસવા માટે haveibeenpwned.com પર પહોંચી શકાતું નથી. વધુ માહિતી માટે કૃપા કરીને Matomo લોગ તપાસો.",
+        "PasswordFoundInDb": "તમારો પાસવર્ડ haveibeenpwned.com ડેટાબેઝમાં %1$s વખત આવે છે. કૃપા કરીને સુરક્ષિત પાસવર્ડ પસંદ કરો.",
+        "PluginDescription": "haveibeenpwned.com ડેટાબેઝમાં તેમના હેશને શોધીને અસુરક્ષિત પાસવર્ડ્સને નકારી કાઢો"
+    }
+}
