@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Nevar piekļūt haveibeenpwned.com, lai pārbaudītu paroli. Lūdzu, pārbaudiet Matomo žurnālu, lai iegūtu vairāk informācijas.",
+        "PasswordFoundInDb": "Jūsu parole datubāzē haveibeenpwned.com atrodama %1$s reizes. Lūdzu, izvēlieties drošu paroli.",
+        "PluginDescription": "Noraidīt nedrošas paroles, meklējot to jaukšanu (\"hash\") haveibeenpwned.com datu bāzē"
+    }
+}

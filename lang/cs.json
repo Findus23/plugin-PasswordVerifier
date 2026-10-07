@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Nelze se dostat na stránku haveibeenpwned.com a ověřit heslo. Další informace naleznete v protokolu Matomo.",
+        "PasswordFoundInDb": "Vaše heslo se v databázi haveibeenpwned.com vyskytuje %1$s krát. Zvolte si prosím bezpečné heslo.",
+        "PluginDescription": "Odmítnout nezabezpečená hesla vyhledáním jejich hashe v databázi haveibeenpwned.com"
+    }
+}

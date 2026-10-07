@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Ezin da haveibeenpwned.com atzitu pasahitza egiaztatzeko. Begiratu Matomoren egunkaria informazio gehiagorako.",
+        "PasswordFoundInDb": "Zure pasahitza %1$s aldiz agertzen da haveibeenpwned.com datu-basean. Aukeratu pasahitz seguru bat.",
+        "PluginDescription": "Baztertu pasahitz ez-seguruak beren hash-a haveibeenpwned.com datu-basean bilatuz"
+    }
+}

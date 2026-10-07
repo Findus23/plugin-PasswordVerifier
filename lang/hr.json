@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Nije moguće pristupiti stranici haveibeenpwned.com za provjeru lozinke. Pogledaj Matomo dnevnik za više informacija.",
+        "PasswordFoundInDb": "Tvoja se lozinka pojavljuje %1$s puta u bazi podataka haveibeenpwned.com. Odaberi sigurniju lozinku.",
+        "PluginDescription": "Odbij nesigurne lozinke pretraživanjem njihovog hash-a u bazi podataka haveibeenpwned.com"
+    }
+}

@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Ní féidir teacht ar haveibeenpwned.com chun an pasfhocal a fhíorú. Seiceáil le do thoil logáil Matomo le haghaidh tuilleadh eolais.",
+        "PasswordFoundInDb": "Tarlaíonn do phasfhocal %1$s uair sa bhunachar sonraí haveibeenpwned.com. Roghnaigh pasfhocal slán.",
+        "PluginDescription": "Diúltaigh pasfhocail neamhchinnteacha ach cuardach a dhéanamh dá hash i mbunachar sonraí haveibeenpwned.com"
+    }
+}

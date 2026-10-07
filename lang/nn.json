@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Får ikkje kontakt med haveibeenpwned.com for å kontrollere passordet. Sjå Matomo-loggen for meir informasjon.",
+        "PasswordFoundInDb": "Passordet ditt finst %1$s gonger i databasen til haveibeenpwned.com. Vel eit trygt passord.",
+        "PluginDescription": "Avvis usikre passord ved å søkje etter hashen deira i databasen til haveibeenpwned.com"
+    }
+}
